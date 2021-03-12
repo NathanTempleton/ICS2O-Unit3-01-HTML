@@ -1,15 +1,32 @@
 .css-text {
-  color:rgb(134, 108, 60);
+  color: rgb(134, 108, 60);
   font-family: cursive;
   text-align: center;
 }
 
-body {
-  background-color: rgba(23, 168, 168, 0.39)
+.css-body {
+  background-color: rgba(23, 168, 168, 0.39);
 }
 
 .css-header {
-  color:rgb(34, 88, 136);
-  font-family:'Courier New', Courier, monospace;
+  color: rgb(34, 88, 136);
+  font-family: 'Courier New', Courier, monospace;
   text-align: center;
 }
+
+.css-table {
+  border: 1px soild black;
+  color: lightcoral;
+  font-family: fantasy;
+}
+
+.css-list {
+  color: rgb(27, 81, 151);
+  font-family: fantasy;
+}
+
+.css-color {
+  color: tomato;
+  font-family: fantasy;
+}
+
